@@ -1,1 +1,1 @@
-for the test
+print ('mantap')
